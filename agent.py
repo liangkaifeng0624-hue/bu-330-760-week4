@@ -49,7 +49,7 @@ def product_lookup(product_name: str) -> str:
     Look up the exact price of a catalog product.
 
     Always use this tool first when a question mentions:
-    Alpha Widget, Beta Widget, Gamma Widget, or Delta Widget.
+    Alpha Widget, Beta Widget, Gamma Widget, or Delta Widget. 
 
     Return the exact numeric price as a string.
     Do not guess prices.
